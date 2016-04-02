@@ -1,0 +1,8 @@
+id:-username:-orcl12629
+password:-Oracle12629
+pluggable database name:-pdborcl
+
+
+
+anveshjava16@gmail.com-knowledgeu-----3...
+anweshjava123@gmail.com-d-------1
